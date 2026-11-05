@@ -1,0 +1,14 @@
+{
+  "name": "nexoscris-backend",
+  "version": "1.0.0",
+  "description": "Cerebro de NexosCrisSaaS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-client": "^2.46.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  }
+}
